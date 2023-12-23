@@ -1,4 +1,4 @@
-# Mozilla Campus Club - Flutter Bootcamp 2023 Preview
+# weather App Flutter
 
 ## Prerequisites
 
